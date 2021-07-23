@@ -1,0 +1,14 @@
+table{
+  border: 1px solid black;
+}
+
+
+table > tbody > tr > td > button{
+  border: none
+}
+
+table > thead {
+  background-color: black;
+  color: white;
+  border: none;
+}

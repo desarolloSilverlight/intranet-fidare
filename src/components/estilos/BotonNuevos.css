@@ -1,0 +1,18 @@
+.bton-creacion{
+  color: #ffffff;
+  font-size: 15px;
+  background: #ffc100;
+  border-radius: 200px 0px 200px 200px;
+  -moz-border-radius: 200px 0px 200px 200px;
+  -webkit-border-radius: 200px 0px 200px 200px;
+  border: 0px solid #000000;
+  padding: 15px;
+  transition: 0.5s;
+}
+
+.bton-creacion:hover{
+  cursor: pointer;
+  box-shadow: 2px 2px 5px #999;
+  padding: 12px;
+  font-size: 85%;
+}
